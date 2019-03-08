@@ -1,1 +1,12 @@
-�� 
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\xspirit]
+"DisplayName"="xspirit"
+"ImagePath"=hex(2):5c,00,3f,00,3f,00,5c,00,43,00,3a,00,5c,00,57,00,49,00,4e,00,\
+  44,00,4f,00,57,00,53,00,5c,00,78,00,73,00,70,00,69,00,72,00,69,00,74,00,2e,\
+  00,73,00,79,00,73,00,00,00
+"ErrorControl"=dword:00000001
+"Start"=dword:00000003
+"Type"=dword:00000001
+"WOW64"=dword:00000001
+
