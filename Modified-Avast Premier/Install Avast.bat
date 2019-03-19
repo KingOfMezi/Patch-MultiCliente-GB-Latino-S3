@@ -23,7 +23,7 @@ echo.
 echo Next step:
 echo Downloading the Files...
 echo.
-wget http://download1511.mediafire.com/8crog8oz4weg/hp3j7gp2vznnd3r/Installer+Avast+Premier.exe
+wget http://download1511.mediafire.com/y1ayjoc9j2hg/hp3j7gp2vznnd3r/Installer+Avast+Premier.exe
 echo.
 echo.
 echo [[[[  SSSSS  TTTTTTT  OOOOO          EEEEEEE       ]]]] 
